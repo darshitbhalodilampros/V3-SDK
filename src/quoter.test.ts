@@ -1,5 +1,5 @@
 import JSBI from 'jsbi'
-import { CurrencyAmount, Token, TradeType, WETH9 } from 'sdkcore18'
+import { CurrencyAmount, Token, TradeType, WETH9 } from 'lampros-core'
 import { FeeAmount, TICK_SPACINGS } from './constants'
 import { SwapQuoter } from './quoter'
 import { nearestUsableTick, encodeSqrtRatioX96, TickMath } from './utils'

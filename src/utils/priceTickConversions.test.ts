@@ -1,4 +1,4 @@
-import { Price, Token } from 'sdkcore18'
+import { Price, Token } from 'lampros-core'
 import { tickToPrice } from './index'
 import { priceToClosestTick } from './priceTickConversions'
 

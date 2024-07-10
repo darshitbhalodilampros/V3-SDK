@@ -1,4 +1,4 @@
-import { Token } from 'sdkcore18'
+import { Token } from 'lampros-core'
 import JSBI from 'jsbi'
 import { AllowedPermitArguments, SelfPermit, StandardPermitArguments } from './selfPermit'
 

@@ -1,4 +1,4 @@
-import { Ether, Token, WETH9 } from 'sdkcore18'
+import { Ether, Token, WETH9 } from 'lampros-core'
 import { FeeAmount } from '../constants'
 import { encodeSqrtRatioX96 } from '../utils/encodeSqrtRatioX96'
 import { TickMath } from '../utils/tickMath'

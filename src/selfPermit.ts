@@ -1,4 +1,4 @@
-import { BigintIsh, Token } from 'sdkcore18'
+import { BigintIsh, Token } from 'lampros-core'
 import { Interface } from '@ethersproject/abi'
 import ISelfPermit from '@uniswap/v3-periphery/artifacts/contracts/interfaces/ISelfPermit.sol/ISelfPermit.json'
 import { toHex } from './utils'

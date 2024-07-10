@@ -1,6 +1,6 @@
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
-import { BigintIsh } from 'sdkcore18'
+import { BigintIsh } from 'lampros-core'
 import { TickMath } from '../utils'
 
 export interface TickConstructorArgs {

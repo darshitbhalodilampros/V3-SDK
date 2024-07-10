@@ -1,4 +1,4 @@
-import { MaxUint256 } from 'sdkcore18'
+import { MaxUint256 } from 'lampros-core'
 import JSBI from 'jsbi'
 import { encodeSqrtRatioX96 } from './encodeSqrtRatioX96'
 import { maxLiquidityForAmounts } from './maxLiquidityForAmounts'

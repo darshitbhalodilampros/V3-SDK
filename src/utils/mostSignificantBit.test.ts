@@ -1,4 +1,4 @@
-import { MaxUint256 } from 'sdkcore18'
+import { MaxUint256 } from 'lampros-core'
 import JSBI from 'jsbi'
 import { ONE } from '../internalConstants'
 import { mostSignificantBit } from './mostSignificantBit'

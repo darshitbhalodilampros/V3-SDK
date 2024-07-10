@@ -1,5 +1,5 @@
 {
-  "name": "v3sdk18",
+  "name": "lampros-v3",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -26,10 +26,10 @@
   "dependencies": {
     "@ethersproject/abi": "^5.0.12",
     "@ethersproject/solidity": "^5.0.9",
-    "sdkcore18": "0.0.1",
     "@uniswap/swap-router-contracts": "^1.2.1",
     "@uniswap/v3-periphery": "^1.1.1",
     "@uniswap/v3-staker": "1.0.0",
+    "lampros-core": "^0.0.1",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },

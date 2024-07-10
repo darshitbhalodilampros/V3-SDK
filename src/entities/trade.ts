@@ -1,4 +1,4 @@
-import { Currency, Fraction, Percent, Price, sortedInsert, CurrencyAmount, TradeType, Token } from 'sdkcore18'
+import { Currency, Fraction, Percent, Price, sortedInsert, CurrencyAmount, TradeType, Token } from 'lampros-core'
 import invariant from 'tiny-invariant'
 import { ONE, ZERO } from '../internalConstants'
 import { Pool } from './pool'

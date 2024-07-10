@@ -1,4 +1,4 @@
-import { Price, Token } from 'sdkcore18'
+import { Price, Token } from 'lampros-core'
 import JSBI from 'jsbi'
 import { Q192 } from '../internalConstants'
 import { encodeSqrtRatioX96 } from './encodeSqrtRatioX96'

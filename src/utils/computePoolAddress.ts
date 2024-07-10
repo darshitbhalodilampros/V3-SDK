@@ -1,7 +1,7 @@
 import { defaultAbiCoder } from '@ethersproject/abi'
 import { getCreate2Address } from '@ethersproject/address'
 import { keccak256 } from '@ethersproject/solidity'
-import { Token } from 'sdkcore18'
+import { Token } from 'lampros-core'
 import { FeeAmount, POOL_INIT_CODE_HASH } from '../constants'
 
 /**

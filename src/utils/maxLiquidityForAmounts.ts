@@ -1,4 +1,4 @@
-import { BigintIsh } from 'sdkcore18'
+import { BigintIsh } from 'lampros-core'
 import JSBI from 'jsbi'
 import { Q96 } from '../internalConstants'
 

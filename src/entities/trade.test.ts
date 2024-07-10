@@ -1,4 +1,4 @@
-import { CurrencyAmount, Ether, Percent, Price, sqrt, Token, TradeType, WETH9 } from 'sdkcore18'
+import { CurrencyAmount, Ether, Percent, Price, sqrt, Token, TradeType, WETH9 } from 'lampros-core'
 import JSBI from 'jsbi'
 import { FeeAmount, TICK_SPACINGS } from '../constants'
 import { encodeSqrtRatioX96 } from '../utils/encodeSqrtRatioX96'

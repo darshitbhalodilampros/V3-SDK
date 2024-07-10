@@ -6,7 +6,7 @@ import {
   validateAndParseAddress,
   Currency,
   NativeCurrency
-} from 'sdkcore18'
+} from 'lampros-core'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { Position } from './entities/position'

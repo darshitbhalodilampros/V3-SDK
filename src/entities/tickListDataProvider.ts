@@ -1,4 +1,4 @@
-import { BigintIsh } from 'sdkcore18'
+import { BigintIsh } from 'lampros-core'
 import { TickList } from '../utils/tickList'
 import { Tick, TickConstructorArgs } from './tick'
 import { TickDataProvider } from './tickDataProvider'

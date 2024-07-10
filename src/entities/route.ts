@@ -1,6 +1,6 @@
 import invariant from 'tiny-invariant'
 
-import { Currency, Price, Token } from 'sdkcore18'
+import { Currency, Price, Token } from 'lampros-core'
 import { Pool } from './pool'
 
 /**

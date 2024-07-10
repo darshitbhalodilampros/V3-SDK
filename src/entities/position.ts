@@ -1,4 +1,4 @@
-import { BigintIsh, MaxUint256, Percent, Price, CurrencyAmount, Token } from 'sdkcore18'
+import { BigintIsh, MaxUint256, Percent, Price, CurrencyAmount, Token } from 'lampros-core'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { ZERO } from '../internalConstants'

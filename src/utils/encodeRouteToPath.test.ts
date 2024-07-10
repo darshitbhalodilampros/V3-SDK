@@ -1,4 +1,4 @@
-import { Ether, Token, WETH9 } from 'sdkcore18'
+import { Ether, Token, WETH9 } from 'lampros-core'
 import { FeeAmount } from '../constants'
 import { Pool } from '../entities/pool'
 import { Route } from '../entities/route'

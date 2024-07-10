@@ -1,4 +1,4 @@
-import { Token, CurrencyAmount, WETH9 } from 'sdkcore18'
+import { Token, CurrencyAmount, WETH9 } from 'lampros-core'
 import { FeeAmount, TICK_SPACINGS } from '../constants'
 import { nearestUsableTick } from '../utils/nearestUsableTick'
 import { TickMath } from '../utils/tickMath'

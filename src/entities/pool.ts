@@ -1,4 +1,4 @@
-import { BigintIsh, CurrencyAmount, Price, Token } from 'sdkcore18'
+import { BigintIsh, CurrencyAmount, Price, Token } from 'lampros-core'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { FACTORY_ADDRESS, FeeAmount, TICK_SPACINGS } from '../constants'

@@ -1,4 +1,4 @@
-import { BigintIsh, Token, validateAndParseAddress } from 'sdkcore18'
+import { BigintIsh, Token, validateAndParseAddress } from 'lampros-core'
 import { MethodParameters, toHex } from './utils/calldata'
 import { defaultAbiCoder, Interface } from '@ethersproject/abi'
 import IUniswapV3Staker from '@uniswap/v3-staker/artifacts/contracts/interfaces/IUniswapV3Staker.sol/IUniswapV3Staker.json'

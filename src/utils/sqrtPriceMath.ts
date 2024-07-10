@@ -1,4 +1,4 @@
-import { MaxUint256 } from 'sdkcore18'
+import { MaxUint256 } from 'lampros-core'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { ONE, ZERO, Q96 } from '../internalConstants'
